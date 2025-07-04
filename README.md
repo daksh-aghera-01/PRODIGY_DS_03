@@ -46,4 +46,4 @@ jupyter notebook notebooks/Task 3.ipynb
 
 ## 🔖 Internship Info
 This project was completed as part of my internship at **Prodigy Infotech** under the task title: 
-Build a decision tree classifier to predict whether a customer will purchase a product or service based on their demographic and behavioral data. Use a dataset such as the Bank Marketing dataset from the UCI Machine Learning Repository.
+**"Build a decision tree classifier to predict whether a customer will purchase a product or service based on their demographic and behavioral data. Use a dataset such as the Bank Marketing dataset from the UCI Machine Learning Repository."**
