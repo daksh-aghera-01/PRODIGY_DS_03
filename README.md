@@ -17,10 +17,10 @@ decision-tree-bank-marketing/
 ├── data/
 │   └── bank-full.csv
 ├── notebooks/
-│   └── decision_tree_classifier.ipynb
+│   └── Task 3.ipynb
 ├── outputs/
-│   ├── decision_tree_plot.png
-│   └── confusion_matrix.png
+│   ├── decision_tree.png
+│   └── confusion matrix.png
 ├── requirements.txt
 └── README.md
 ```
@@ -41,16 +41,5 @@ pip install -r requirements.txt
 
 ## 🚀 Run the Notebook
 ```bash
-jupyter notebook notebooks/decision_tree_classifier.ipynb
+jupyter notebook notebooks/Task 3.ipynb
 ```
-
-## 💡 Future Enhancements
-- Try RandomForestClassifier
-- Add GridSearchCV
-- Use SHAP or LIME for explainability
-
-## 🧑‍💻 Author
-- **Your Name** – [@yourgithub](https://github.com/yourgithub)
-
-## 🪪 License
-MIT License
